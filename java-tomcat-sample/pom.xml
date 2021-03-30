@@ -33,6 +33,7 @@
                   <artifactId>webapp-runner</artifactId>
                   <version>8.5.11.3</version>
                   <destFileName>webapp-runner.jar</destFileName>
+                  <useCache>false</useCache>
                 </artifactItem>
               </artifactItems>
             </configuration>
